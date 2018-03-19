@@ -1,10 +1,14 @@
+node_modules/
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .idea/
-node_modules/
 build
 .DS_Store
 *.tgz
@@ -16,3 +20,4 @@ yarn-debug.log*
 yarn-error.log*
 /.changelog
 src/playground/
+
